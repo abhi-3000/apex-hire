@@ -3,7 +3,7 @@
 
 🔗 [Live Demo](https://apex-hire-8pej0evvr-abhishek-mandals-projects-e004a46c.vercel.app/)
 
-![Banner](./screenshots/apexhire-banner.png)
+![Banner](./screenshots/banner_apexhire.png)
 
 *ApexHire is a modern, full-stack web application designed to automate and streamline the initial technical screening process. It serves as an intelligent assistant for both candidates and recruiters, providing a seamless, automated, and data-driven interview experience.*  
 
@@ -49,7 +49,7 @@ This platform is a **modern single-page application**:
 
 ## 🔄 Project Flow  
 
-![Project Flow](./screenshots/project-flow.png)  
+![Project Flow](./screenshots/projectflow.png)  
 
 *Candidate uploads resume → AI parses info → Timed Interview → Auto-scoring → Interviewer Dashboard → Candidate Report → Analytics & Insights*
 
@@ -59,12 +59,15 @@ This platform is a **modern single-page application**:
 
 <table>
 <tr>
-<td><img src="./screenshots/homepage.png" width="350" /></td>
-<td><img src="./screenshots/interviewee-dashboard.png" width="350" /></td>
+<td><img src="./screenshots/landingpage.png" width="350" /></td>
 </tr>
 <tr>
-<td><img src="./screenshots/interviewer-dashboard.png" width="350" /></td>
-<td><img src="./screenshots/candidate-report.png" width="350" /></td>
+<td><img src="./screenshots/interviewee1.png" width="350" /></td>
+<td><img src="./screenshots/interviewee2.png" width="350" /></td>
+</tr>
+<tr>
+<td><img src="./screenshots/interviewer1.png" width="350" /></td>
+<td><img src="./screenshots/interviewer2.png" width="350" /></td>
 </tr>
 </table>
 
