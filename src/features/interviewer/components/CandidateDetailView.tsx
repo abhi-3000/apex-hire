@@ -42,7 +42,7 @@ const CandidateDetailView: React.FC<CandidateDetailViewProps> = ({ candidate }) 
 
   return (
     <motion.div
-      className="flex flex-col gap-6 font-inter h-full"
+      className="flex flex-col gap-6 font-inter"
       variants={containerVariants}
       initial="initial"
       animate="animate"
